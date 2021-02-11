@@ -2,7 +2,7 @@
 
 Aplicativo simples feito em HTML, CSS e Javascript, com objetivo de guardar registros financeiros do dia-a-dia.
 
-![Dev%20Finances%2030f030d6becb4113b7e916b39a48eecb/Untitled.png](Dev%20Finances%2030f030d6becb4113b7e916b39a48eecb/Untitled.png)
+![dev finances](https://user-images.githubusercontent.com/47197477/107700313-1188bc00-6c96-11eb-8b47-26590b340c19.jpg)
 
 ## 🏹 Tópicos abordados no projeto
 
